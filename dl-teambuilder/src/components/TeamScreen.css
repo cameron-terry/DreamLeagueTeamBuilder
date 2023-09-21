@@ -1,0 +1,16 @@
+.teamScreenContainer {
+  flex-direction: column;
+  height: 100%;
+  /* Add any other styles you may need */
+  display: flex;
+  border: 1px solid red;
+}
+
+.partition {
+  flex: 1; /* This ensures that each partition takes up equal space */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center; /* Centers the cards vertically */
+  border: 1px solid blue;
+}

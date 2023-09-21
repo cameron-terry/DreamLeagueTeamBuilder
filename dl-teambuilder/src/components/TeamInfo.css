@@ -1,0 +1,14 @@
+.teamInfoContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: 1px solid black;
+}
+
+.basicStats,
+.advancedStats {
+  flex: 1; /* This ensures both take up equal height */
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid red;
+}

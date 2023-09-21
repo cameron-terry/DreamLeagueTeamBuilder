@@ -1,0 +1,13 @@
+.formationChooserContainer {
+  align-items: center;
+  height: 10%;
+  border: 1px solid red;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.formationDropdown {
+  padding: 5px;
+}

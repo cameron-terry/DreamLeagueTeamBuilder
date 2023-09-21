@@ -1,0 +1,15 @@
+.teamBuildContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* Assuming you want it to take the full height of its parent. Adjust as needed. */
+}
+
+.TeamScreen {
+  height: 90%;
+  box-sizing: border-box; /* This ensures that the border width is included in the element's total width and height */
+}
+
+.FormationChooser {
+  height: 10%;
+  box-sizing: border-box;
+}
