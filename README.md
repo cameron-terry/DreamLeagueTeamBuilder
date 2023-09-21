@@ -5,4 +5,4 @@ The data was obtained from a compilation of [DLS 23 Ratings by rosieline\_ and T
 
 Basic analytics are also provided to help users make decisions on which players to add to their teams.
 
-Try it out at:
+Try it out at: https://dream-league-2023-teambuilder.web.app/

@@ -1,6 +1,6 @@
 import React from "react";
-import BasicStats from "./BasicStats";
-import AdvancedStats from "./AdvancedStats";
+import BasicStats from "./BasicStats/BasicStats";
+import AdvancedStats from "./AdvancedStats/AdvancedStats";
 import "./TeamInfo.css";
 
 function TeamInfo() {

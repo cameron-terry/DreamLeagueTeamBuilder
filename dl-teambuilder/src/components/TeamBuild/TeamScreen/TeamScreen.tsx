@@ -1,8 +1,8 @@
 import React from "react";
 import "./TeamScreen.css";
 
-import { Formation } from "./constants";
-import PlayerCard from "./PlayerCard";
+import { Formation } from "../../constants";
+import PlayerCard from "../../PlayerCard";
 
 interface TeamScreenProps {
   formation: Formation;

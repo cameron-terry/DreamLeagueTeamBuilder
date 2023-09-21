@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import TeamBuild from "./components/TeamBuild";
-import TeamInfo from "./components/TeamInfo";
+import TeamBuild from "./components/TeamBuild/TeamBuild";
+import TeamInfo from "./components/TeamInfo/TeamInfo";
 
 function App() {
   return (

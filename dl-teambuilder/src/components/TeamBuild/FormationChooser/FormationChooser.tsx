@@ -1,7 +1,7 @@
 import React from "react";
 import "./FormationChooser.css";
 
-import { FORMATIONS, Formation } from "./constants";
+import { FORMATIONS, Formation } from "../../constants";
 
 interface FormationChooserProps {
   onFormationChange: (formation: Formation) => void;
